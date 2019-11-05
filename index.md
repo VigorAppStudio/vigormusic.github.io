@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <!-- saved from url=(0118)file:///Users/charleslee/Library/Mobile%20Documents/com~apple~CloudDocs/%E5%B7%A5%E4%BD%9C/Mango/Privacy%20Policy.html -->
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=8; IE=9">
