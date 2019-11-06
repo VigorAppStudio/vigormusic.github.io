@@ -1,4 +1,4 @@
-<!-- saved from url=(0118)file:///Users/charleslee/Library/Mobile%20Documents/com~apple~CloudDocs/%E5%B7%A5%E4%BD%9C/Mango/Privacy%20Policy.html -->
+<!-- saved from url=(0118)file:///Users/charleslee/Library/Mobile%20Documents/com~apple~CloudDocs/%E5%B7%A5%E4%BD%9C/Movie/Privacy%20Policy.html -->
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=8; IE=9">
 
@@ -16,7 +16,7 @@
 </style>
 
 <!-- Google Fonts -->
-<link href="file:///Users/charleslee/Library/Mobile%20Documents/com~apple~CloudDocs/%E5%B7%A5%E4%BD%9C/Music/Privacy%20Policy_files/css" rel="stylesheet">
+<link href="file:///Users/charleslee/Library/Mobile%20Documents/com~apple~CloudDocs/%E5%B7%A5%E4%BD%9C/Movie/Privacy%20Policy_files/css" rel="stylesheet">
 
 </head>
 
@@ -31,261 +31,33 @@
                     display: none;
                 }
                 </style>
-                <p>We regularly collect and use information that could identify an individual (“<strong>personal data</strong>”), in particular about your purchase or use of our products, services, mobile and software applications and websites (“<strong>you</strong>”, “<strong>your</strong>”). The protection of your personal data is very important to us, and we understand our responsibilities to handle your personal data with care, to keep it secure and to comply with legal requirements.</p>
-                <p>The purpose of this privacy policy is to provide a clear explanation of when, why and how we collect and use personal data (“<strong>Policy</strong>”).</p>
-                <p>Please read this Policy carefully. This Policy is not intended to override the terms of any contract that you have with you or any rights you might have available under applicable data protection laws.</p>
-                <p>We may make changes to this Policy from time to time for example, to keep it up to date or to comply with legal requirements or changes in the way we operate our business. We encourage you to regularly check and review this policy so that you will always know what information we collect, how we use it, and who we share it with.</p>
-                <p>This Privacy Policy was updated on 9th Jun, 2019.</p>
+                <p>Vigor Music respects and protects the privacy of individuals from all official websites and user communities that are related to Vigor Music. This Vigor Music Privacy Policy (hereinafter, this "Privacy Policy") provides: without obtaining your prior consent, we will not intentionally disclose any contents that relates to your personal privacy to any third party unless otherwise stipulated herein.</p>
                 
-                <h4 id="id-1-who-is-responsible-for-looking-after-your-personal-data"><strong>1. DESCRIPTION Of third party service</strong></h4>
-                <p>The platform can give you access to websites, databases, networks, servers, information, software, programs, systems, directories, applications, products or services, third party (hereinafter "external services", "3rd-party services").  We only use YouTube and Soundcloud API compatible with their policy. We are only an unofficial 3rd-party client that complies with their 3rd party API terms of service. It is NOT an affiliated nor related product of those services. Per their API developer terms you do not need special approval to use these APIs or to promote API functionality in your application provided that the guidelines are followed.  All trademarks and copyrights belong to their respective owners and are used here under the terms of Fair. Use and the Digital Millennium Copyrights Act (DMCA).</p><p>YouTube API Services Terms of Service:
-<a href="https://developers.google.com/youtube/terms/api-services-terms-of-service">https://developers.google.com/youtube/terms/api-services-terms-of-service</a></p><p>SoundCloud Terms of Use: 
-<a href="https://soundcloud.com/terms-of-use">https://soundcloud.com/terms-of-use</a>
-</p>
-<p></p><p></p>
-                <h4 id="id-2-what-personal-data-do-we-collect"><strong>2. WHAT personal data do we collect?</strong></h4>
-                <p>2.1 Personal data or information you directly provide to us</p>
-                <p>(1) When you start to use Music, you need to either log in with a third party account or register a new personal account to be a user of Music. (i) when you log in with a third party account (such as Google or Facebook account), you allow us to collect your information of these accounts which are made available based on these third parties’ policies and your settings in these accounts (please refer to Section 2.5 and Section 3.2 of this Policy). (ii) if you register a new account with information other than a third party account, or decide to associate a current account to your other information (such as email), you need to provide us certain information so that we may process relevant authentication and customer service, record archiving or take security measures, these include a designated user account name, password and your email address (depending on our detailed resignation process). If you don’t agree to provide such information, you have the right not to insert and submit such information on the relevant pages, but you also will not be able to use the features of Music as a registered user. If you chose not to log in or register with the above information in the first place, you may still provide these information and register later (please contact us if you have any question or difficulties).</p>
-                <p>(2) When users claim cash back or gifts the user needs to provide email address in order to receive the promotion code we send to users’ email. If you disagree to provide the email in this case, you’ll be unable to receive any cash back or gifts, but your experience for other functions and features of this product will not be affected.</p>
-                <p>2.2 Personal data or information we get from your use of our product and service</p>
-                <p>We collect information about the product and services that you use and how you use them in order to properly provide the core or important features of our product and service, or to improve our product and service, or to provide additional features to our product (such as socializing functions or value-added services and promotions, etc.). Some of the typical reasons that we collect personal data include (in case of any contents herein which provide otherwise, such as Section 3 or 4, please refer to the relevant details accordingly):</p>
-                <ul>
-                    <li>Provide our product and services, including our app and related website (if any), and improve them over time;</li>
-                    <li>Allow you to download and purchase products and services;</li>
-                    <li>Personalize and manage our relationship with you, including introducing you to products or services that may be of interest to you or to provide customer support;</li>
-                    <li>Investigate, respond to, and manage inquiries or events;</li>
-                    <li>Work with and respond to law enforcement and regulators; and</li>
-                    <li>Research matters relating to our prod and business, such as security threats and vulnerabilities, or conducting internal audit, data analysis, and research.</li>
-                </ul>
-                <p>If you do not provide some of the information mentioned below, you may not be able to continue using the product and / or services that we provide, and if you do not agree that the information to be collected after your installation or use of the product, you may stop using or uninstall our product and / or services, or contact with us for advice; for the other types of information, your refusal to provide or opt-out option may cause you unable to access certain specific features or get the best experience.</p>
-                <p>(1) Device and/or SIM card information</p>
-                <p>We collect device-specific information (such as your hardware model, operating system version, and mobile network information).</p>
-                <p>(2) Log information</p>
-                <p>When you use our product and service or view the content provided by us, we automatically collect and store certain information in server logs. This includes: Details of how you used our service, such as your search queries.</p>
-                <p>(3) Internet protocol address</p>
-                <p>Device event information such as crashes, system activity, hardware settings, browser type, browser language, the date and time of your request and referral URL.</p>
-                <p>(4) Other information about you including the default language and time zone of your device. When you use this product, we display and provide you relevant video contents based on your default language, which will be determined by the above information. You may switch your content location by changing the settings of our application. If you refuse to or stop providing such information, we may not be able to decide on your location and provide contents which are most relevant to you, and we may even not be able to provide you any video content as some resources are blocked or not licensed for certain country or region.</p>
-                <p>2.3 Permissions on you device</p>
-                <p>In providing our product’s functions and services, we may need you to allow certain “permissions” on your device, which will enable to information collection and usage relevant to those functions. These include the permissions described in the list below (please take note that we may revise and update this list from time to time, for the reasons such as update or revision of our product, technology upgrading such as changes in your phone’s operating system, or legal and policy requirements. Such changes will be posted in our updated Privacy Policy):</p>
-                <table>
-                    <thead>
-                        <tr>
-                            <th>Permission</th>
-                            <th style="text-align: left">Related functions</th>
-                            <th>Purpose of permissions</th>
-                            <th>Whether user will be asked about permissions</th>
-                            <th>Whether user can deny permissions</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td>Photo/Media/Files</td>
-                            <td style="text-align: left">Library Music play</td>
-                            <td>Scan local music</td>
-                            <td>Yes</td>
-                            <td>No</td>
-                        </tr>
-                        <tr>
-                            <td>Phone statue and user identity</td>
-                            <td style="text-align: left">Major feature</td>
-                            <td>Analyze product data</td>
-                            <td>No</td>
-                            <td>No</td>
-                        </tr>
-                    </tbody>
-                </table>
-                <p>You can check if such permissions are allowed or not for our product, which can be done by checking “Settings-Apps” in this product , or by checking in “Settings- Permissions” on your device, and thereby decide whether each permission will continue to be allowed or will be denied. The specific way to review the status of such permissions and deny them may vary in different devices, and please refer to the notes or instructions provided by relevant device OEMs and OS developers. In case that you’re unable to carry out relevant steps and adjust the settings in your currently-used product or device, please contact us or the OEM or seller of you device.</p>
-                <p>Please note that allowing these permissions will be deemed as your consent to allow us collect and use relevant information to realize relevant functions; when you deny or disable the permissions in whole or in part, it means you have refused to provide related information to us, therefore also making us unable to provide you those functions relevant to such permissions. To the extent allowed by applicable laws, your decision to deny a certain permission on your device does not affect or invalidate our previous handling of your relevant information which has been based on your prior consent to allow such permission.</p>
-                <p>2.4 Cookies and tracking technologies</p>
-                <p>We may use technologies cookies and web beacons - please see our separate Cookie Policy attached as an appendix of this Privacy Policy for further details on cookies.</p>
-                <p>2.5 Your information which we obtain or receive from third parties</p>
-                <p>We may obtain or receive from third parties your account information (including not be limited to account avatar, nickname etc.) which you’ve allowed them to share, and thereby binding your account at the third parties with your personal account in our product and service, and allowing you to directly log into (or by hyperlink) our account via the third party account to use our product and service. We may also, where it is allowed by applicable law or according to your agreement with third parties, obtain other types of your information from third parties.</p>
-                <p>We will use aforesaid information of yours according to our agreement with relevant third parties, and also in compliance with applicable laws and regulations. We will take commercially reasonable measures to make sure these third parties provide such information as a legitimate source. However, please note that the third parties collect your information – and share to us, where applicable- based on their own privacy policies and applicable laws, which may have provisions and commitments different from this Privacy Policy. We’re unable to 100% verify and ensure the third parties are sharing your information to us in a legitimate way.</p>
-                <p>For the avoidance of doubt, this Privacy Policy does not apply to: information collection and handling conducted by third-party services (including any website, software or application) which has been provided access in our product and service; information collection and handling conducted by other companies and institutes which provide advertising service within our product and service.</p>
-                <h4 id="id-3-when-do-we-collect-your-personal-data"><strong>3. WHEN do we collect your personal data?</strong></h4>
-                <p>3.1 We will collect information from you directly when you use our products and services, or where you contact us with questions, complaints or suggestions or provide us with any feedback.</p>
-                <p>3.2 We may collect information about you indirectly from other sources and combine that with information we collect through our services where this is necessary to help manage our relationship with you. These other sources may include third party software applications and social media platforms such as Facebook, Google + and Twitter.</p>
-                <p>3.3 We will not knowingly collect any personal data about persons who are legally recognized as children without making it clear that such information should only be provided with parental consent, if this is required by applicable laws. For the purpose of this Policy, “children” refer to persons under the age of 16 (in the laws of some countries, this age limit maybe higher, in such case such age limit will apply to those subject to such laws).</p>
-                <p>Except as otherwise stated, our product, website and service are primarily directed to adults. Children shall not create their own user accounts except with relevant consent from their parent(s) or other lawful guardian(s); without guidance and consent from their guardian(s), children shall not independently confirm and accept this Privacy Policy and use our product or service.</p>
-                <p>We’ll comply with local laws regarding children’s right protection applicable to our product and service. We will only use the personal data of children as far as is permitted by law where the required parental or guardian consent has been obtained. If you believe we have collected information from any child in error or have questions or concerns about our any other practices relating to children, please notify us and we will take proper actions to investigate and promptly solve relevant issues In case we find out that we’ve collected children’s information without prior consents from their lawful guardians, we’ll make efforts to quickly delete relevant data.</p>
-                <h4 id="id-4-what-purposes-do-we-use-your-personal-data-for"><strong>4. What PURPOSES do we USE your personal data for?</strong></h4>
-                <p>We will use your personal data:</p>
-                <ul>
-                    <li><em>To keep you posted on software updates, technical updates, security alerts and support and administrative messages;</em></li>
-                    <li><em>To allow you to download and purchase our products and services such as our apps and related websites;</em></li>
-                    <li><em>To help us create, provide, develop, operate, deliver, maintain and improve our products, services, content, advertising and continually improve your user experience;</em></li>
-                    <li><em>To assess customer satisfaction and link or combine with information we get from others to help understand your needs and provide you with better user experience;</em></li>
-                    <li><em>To process transactions and send you related information, including confirmations and invoices;</em></li>
-                    <li><em>To respond to your comments, inquiries, questions, provide customer service and support and fulfill your requests;</em></li>
-                    <li><em>To verify identity, assist with identification of users, and to determine appropriate services;</em></li>
-                    <li><em>To communicate with you and send you important notices or personalized messages, such as communications about purchases and changes to our terms, conditions, and policies;</em></li>
-                    <li><em>To monitor, evaluate and analyze trends, data, transactions, usage and activities in connection with our products and services;</em></li>
-                    <li><em>To facilitate internal purposes such as auditing, data analysis, and research to improve our products, services, and customer communications;</em></li>
-                    <li><em>To detect, investigate and prevent fraudulent transactions and other illegal activities and protect our rights and property;</em></li>
-                    <li>To use your personal data for purposes associated with our legal and regulatory obligations.&nbsp;</li>
-                </ul>
-                <p>We have to establish a legal ground to use your personal data, so we will make sure that we only use your personal data for the purposes set out in this Section 4 where we are satisfied that:</p>
-                <ul>
-                    <li>our use of your personal data is necessary to perform a contract or take steps to enter into a contract with you (e.g. to fulfill obligations under the contract signed between you and us), or</li>
-                    <li>our use of your personal data is necessary to comply with a relevant legal or regulatory obligation that we are subject to, or</li>
-                    <li>our use of your personal data is necessary to support ‘legitimate interests’ that we have as a business (for example, to improve our products, or to carry out analytics across our datasets), provided it is always carried out in a way that is proportionate, and that respects your privacy rights.</li>
-                </ul>
-                <p>In order for us to provide you with our services when you use certain applications, we may collect special categories of data from you. For our collection or use of your special categories of data, we will establish an additional lawful ground to those set out above which will allow us to use that information. This additional exemption will typically be:</p>
-                <ul>
-                    <li>your explicit consent;</li>
-                    <li>the establishment, exercise or defense by us or third parties of legal claims; or</li>
-                    <li>a specific exemption provided under local laws of EU Member States and other countries implementing the GDPR, or other laws of jurisdictions which are applicable to our handling of your personal data.</li>
-                </ul>
-                <p><strong>PLEASE NOTE:</strong> If we have previously advised that we are relying on consent as the basis of our processing activities, going forward we will not be relying on that legal basis except where this has been explicitly set out to you. For the types information you’ve consented to provide us while using our product or service, you’re deemed to have granted us authorization to continuously use such information throughout the period you use our product or service- unless you have deleted such information (either by yourself or by informing us, pursuant to this Privacy Policy) or, by effective settings or notice, refused our continued usage of the information. When you cancel your user account and / or completely uninstall our product (or stop using our service), we will, pursuant to applicable laws and according to this Policy, stop using and / or delete such information of you.</p>
-                <p><strong>PLEASE NOTE:</strong> If you provide your explicit consent to allow us to process your special categories of data, you may withdraw your consent to such processing at any time. However, you should be aware that if you choose to do so we may be unable to continue to provide certain services to you. If you choose to withdraw your consent we will tell you more about the possible consequences.</p>
-                <p><strong>PLEASE NOTE:</strong> We will not need to, or will be effectively unable to, get your prior consent on collecting and / or using your personal data in the following circumstances, so far as these exemptions are allowed under applicable laws and so far as the collection and usage is necessary for such purposes:</p>
-                <ul>
-                    <li>when the collection and usage is related to national secure or national defense, public safety, public health or significant public interests;</li>
-                    <li>when the collection and usage is related to investigation, prosecution, trial or judgment enforcement of criminal acts;</li>
-                    <li>for the sake of life, property or other major legitimate interests of you or others, while in such incidents we have difficulty to reach you to confirm your consent;</li>
-                    <li>when the information we collect has been voluntarily disclosed by yourself;</li>
-                    <li>when we collect your information from sources that have made legitimate and public relevant disclosures of such information, such as legitimate news reports, or governmental information disclosure;</li>
-                    <li>when relevant collection or usage is necessary for ensuring the safe, stable and legitimate operations of our product and service, such as when we need to diagnose or deal with failure or defects in our product and service;</li>
-                    <li>when the collection or usage is required for legitimate news reports;</li>
-                    <li>when the collection or usage is necessary for academic or research institutes to make statistical or academy research for public interests, and when such results of research are being disclosed, the personal data contained has been made to be “de-identified”;</li>
-                    <li>when the collection or usage of your information is permitted by applicable laws and regulations for other reasons.</li>
-                </ul>
-                <h4 id="id-5-who-do-we-share-your-personal-data-with"><strong>5. Who do we SHARE your personal data with?</strong></h4>
-                <p>We may share your data with other affiliate companies in or outside Europe. We may also share your data with third parties, to help manage our business and deliver services. These third parties may from time to time need to have access to your personal data. These third parties may include:</p>
-                <ul>
-                    <li><em><strong>Service providers or partners</strong>, who perform functions on our behalf such as fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, and providing customer services or other activities as necessary part of the functioning in our product or service. Such third parties may handle your information on behalf of us. If you don’t wish to allow their access and processing, please contact us to make your notice. If you share your data through one of our websites or devices with a third party account such as Facebook, Google+ or Twitter, your personal data will be managed respectively by one of those third parties. Please review the third party’s privacy policy, as their data processing will not be covered by this Policy;</em></li>
-                    <li><em><strong>Our regulators</strong>, including regulators and law enforcement or investigation agencies in the E.U., U.S., China, and around the world;</em></li>
-                    <li><em><strong>Other third parties</strong>, for the purposes of detecting, preventing or otherwise addressing fraud, security or technical issues (such as cyber-attack, or other illegal or immoral acts), targeting at or related to protecting against harm to the rights, property or safety of our users or us, our affiliates, employees or the public;</em></li>
-                    <li><em><strong>Solicitors</strong> and other professional services firms (including our auditors).</em></li>
-                </ul>
-                <p>Also, if we were to sell part of our businesses or assets, as required by applicable laws or agreed with relevant parties, we would need to transfer your personal data to the purchaser in case of carrying out relevant deals such as merger, acquisition or asset transfers.</p>
-                <h4 id="id-6-direct-marketing"><strong>6. Direct marketing</strong></h4>
-                <p>We may use your personal data to send you direct marketing communications about our own or third party products and services or our related services including our latest product announcements and upcoming events. This may be in the form of email, post, SMS, telephone or targeted online advertisements. We limit direct marketing to a reasonable and proportionate level, and to send you communications which we think will be interesting and relevant to you, based on the information we have about you.</p>
-                <p>For the purposes of GDPR our processing of your personal data for direct marketing purposes is based on our legitimate interests (as further detailed in applicable Appendix), but where opt-in consent is required by the relevant laws such as the Privacy and Electronic Communications Regulations of Europe, we may ask you for your consent. You have a right to stop receiving direct marketing at any time. You can do this by following the opt-out or unsubscribe links in electronic communications (such as emails), or by contacting us using the details in Section 12 if you find problems in making such settings by yourself. Please also note that, when necessary (e.g., certain service is suspended due to system maintenance), we may send to you relevant announcements. You may not be able to cancel the announcements related to the services that are not promotional in nature.</p>
-                <p>We also use your personal data for customizing or personalizing ads, offers and content made available to you based on your usage of our mobile applications, websites, platforms or services, and analyzing the performance of those ads, offers and content, as well as your interaction with them. We may also recommend content to you based on information we have collected about you and your viewing habits. This constitutes “profiling” in respect of which more information is provided at Section 8 of this Policy.</p>
-                <h4 id="id-7-international-transfers"><strong>7. International transfers</strong></h4>
-                <p>We may transfer your personal data to affiliate companies or service providers that are located inside or outside of Europe. We may also share your personal data overseas, for example if we receive a legal or regulatory request from a foreign law enforcement body. We will always take steps to ensure that any international transfer of information is carefully managed to protect your rights and interests:</p>
-                <ul>
-                    <li>we will only transfer your personal data to countries which are recognized as providing an adequate level of legal protection; and</li>
-                    <li>transfers to affiliate companies, service providers and other third parties will always be protected by contractual commitments for additional security. For example, the EU–US Privacy Shield for the protection of personal data transferred to the US.</li>
-                </ul>
-                <p>You have the right – as allowed under applicable law – to ask us for more information about the safeguards we have put in place as mentioned above. Contact us as set out in Section 12 if you would like further information (which may be redacted to ensure confidentiality).</p>
-                <h4 id="id-8-profiling"><strong>8. Profiling</strong></h4>
-                <p><strong>“Automated decision making”</strong> refers to a decision which is taken though the automated processing of your personal data alone. This means processing using, for example, software code or an algorithm, which does not involve any human intervention. As profiling uses automated processing, it is sometimes connected with automated decision making. Not all profiling results in automated decision making, but it can do.</p>
-                <p>If you are a consumer that has signed up to receive marketing updates, we may use profiling to ensure that marketing materials are tailored to your preferences and to what we think you will be interested in. This does not have any significant effect, or a legal effect on you. In certain circumstances it may be possible to infer certain information about you from the result of profiling, which may include special categories of data. We will not however conduct profiling based on your special categories of data unless we have obtained your explicit consent to do so.</p>
-                <p><strong>PLEASE NOTE:</strong> You have certain rights in respect of automated decision making, including profiling where that decision has significant effects on you, including where it produces a legal effect on you. See Section 10.</p>
-                <h4 id="id-9-how-long-do-we-keep-your-personal-data"><strong>9. How long do we keep your personal data?</strong></h4>
-                <p>We will retain your personal data for as long as is reasonably necessary for the purposes listed in Section 4 and relevant Appendixes of this Policy. In some circumstances we may retain your personal data for longer periods of time, for example where we are required to do so to meet legal, regulatory, tax or accounting requirements.</p>
-                <p>In specific circumstances we may also retain your personal data for longer periods of time so that we have an accurate record of your dealings with us in the event of any complaints or challenges, or if we reasonably believe there is a possibility of legal action relating to your personal data or dealings. Where your personal data is no longer required we will ensure it is either securely deleted or stored in a way which means it will no longer be used by the business.</p>
-                <h4 id="id-10-what-are-your-rights"><strong>10. What are your rights?</strong></h4>
-                <p>You have a number of rights in relation to your personal data. In summary, you may request access to your data, rectification of any mistakes in our files, erasure of records where no longer required, restriction on the processing of your data, objection to the processing of your data, data portability and various information in relation to any automated decision making and profiling or the basis for international transfers. You also have the right to complain to your supervisory authority (further details of which are set out in Section 12 below).</p>
-                <p>Those underlined are defined in more detail as follows:</p>
-                <blockquote>
-                    <p><strong><em>Access</em></strong></p>
-                    <p>You can ask us to:</p>
-                    <ul>
-                        <li>confirm whether we are processing your personal data;</li>
-                        <li>give you a copy of that data;</li>
-                        <li>provide you with other information about your personal data such as what data we have, what we use it for, who we disclose it to, whether we transfer it abroad and how we protect it, how long we keep it for, what rights you have, how you can make a complaint, where we got your data from and whether we have carried out automated decision making or profiling, to the extent that information has not already been provided to you in this Policy.</li>
-                    </ul>
-                    <p><strong><em>Rectification</em></strong></p>
-                    <p>You can ask us to rectify inaccurate personal data. We may seek to verify the accuracy of the data before rectifying it.</p>
-                    <p><strong><em>Erasure</em></strong></p>
-                    <p>You can ask us to erase your personal data, but only where:</p>
-                    <ul>
-                        <li>it is no longer needed for the purposes for which it was collected; or</li>
-                        <li>you have withdrawn your consent (where the data processing was based on consent); or</li>
-                        <li>following a successful right to object (see “objection” below); or</li>
-                        <li>it has been processed unlawfully; or</li>
-                        <li>to comply with a legal obligation which it is subject to.</li>
-                    </ul>
-                    <p>We are not required to comply with your request to erase your personal data if the processing of your personal data is necessary: for compliance with a legal obligation; or for the establishment, exercise or defense of legal claims. There are certain other circumstances in which we are not required to comply with your erasure request, although these two are the most likely circumstances where we would deny that request.</p>
-                    <p><strong><em>Restriction</em></strong></p>
-                    <p>You can ask us to restrict (i.e. keep but not use) your personal data, but only where:</p>
-                    <ul>
-                        <li>its accuracy is contested (see “rectification” below), to allow us to verify its accuracy; or</li>
-                        <li>the processing is unlawful, but you do not want it erased; or</li>
-                        <li>it is no longer needed for the purposes for which it was collected, but we still need it to establish, exercise or defend legal claims; or</li>
-                        <li>you have exercised the right to object, and verification of overriding grounds is pending.</li>
-                    </ul>
-                    <p>We can continue to use your personal data following a request for restriction, where:</p>
-                    <ul>
-                        <li>we have your consent; or</li>
-                        <li>to establish, exercise or defend legal claims; or</li>
-                        <li>to protect the rights of another natural or legal person.</li>
-                    </ul>
-                    <p><strong><em>Portability</em></strong></p>
-                    <p>You can ask us to provide your personal data to you in a structured, commonly used, machine-readable format, or you can ask to have it “ported” directly to another data controller, but in each case only where: the processing is based on your consent or the performance of a contract with you; and the processing is carried out by automated means.</p>
-                    <p><strong><em>Objection</em></strong></p>
-                    <p>You can object to any processing of your personal data which has our legitimate interests as its legal basis (see Section 4 or contact us for further details), if you believe your fundamental rights and freedoms outweigh our legitimate interests. Once you have objected, we have an opportunity to demonstrate that we have compelling legitimate interests which override your rights.</p>
-                    <p><strong><em>Automated Decision Making</em></strong></p>
-                    <p>You can ask not to be subject to a decision which is based solely on automated processing (see Section 8), but only where that decision:</p>
-                    <ul>
-                        <li>produces legal effects concerning you (such as the rejection of a claim); or</li>
-                        <li>otherwise significantly affects you.</li>
-                    </ul>
-                    <p>In such situations, you can obtain human intervention in the decision making, and we will ensure measures are in place to allow you to express your point of view, and / or contest the automated decision. Your right to obtain human intervention or to contest a decision does not apply where the decision which is made following automated decision making:</p>
-                    <ul>
-                        <li>is necessary for entering into or performing a contract with you;</li>
-                        <li>is authorized by law and there are suitable safeguards for your rights and freedoms; or</li>
-                        <li>is based on your explicit consent.</li>
-                    </ul>
-                </blockquote>
-                <p>To exercise your rights you may contact us as set out in Section 12. Please note the following if you do wish to exercise these rights:</p>
-                <ul>
-                    <li>
-                        <p><strong>Identity.</strong> We take the confidentiality of all records containing personal data seriously, and reserve the right to ask you for proof of your identity if you make a request.</p>
-                    </li>
-                    <li>
-                        <p><strong>Fees.</strong> We will not ask for a fee to exercise any of your rights in relation to your personal data, unless your request for access to information is unfounded, repetitive or excessive, in which case we will charge a reasonable amount in the circumstances. We will let you know of any charges before completing your request.</p>
-                    </li>
-                    <li>
-                        <p><strong>Timescales.</strong> We aim to respond to any valid requests within one month unless it is particularly complicated or you have made several requests, in which case we aim to respond within three months. We will let you know if we are going to take longer than one month. We might ask you if you can help by telling us what exactly you want to receive or are concerned about. This will help us to action your request more quickly.</p>
-                    </li>
-                    <li>
-                        <p><strong>Exemptions.</strong> Local laws may provide additional exemptions, e.g. in the UK, where it is subject to legal privilege, the right of access to personal data can be withheld from you in certain circumstances.</p>
-                    </li>
-                    <li>
-                        <p><strong>Third Party Rights.</strong> We do not have to comply with a request where it would adversely affect the rights and freedoms of other Data Subjects.</p>
-                    </li>
-                </ul>
-                <h4 id="id-11-how-we-protect-your-personal-data"><strong>11. How we PROTECT your personal data?</strong></h4>
-                <p>We endeavor to protect us and you from unauthorized access to or unauthorized alteration, disclosure or destruction of personal data that we hold.</p>
-                <p>In particular:</p>
-                <ul>
-                    <li>We review our information collection, storage and processing practices, including physical security measures, to guard against unauthorized access to systems;</li>
-                    <li>We use encryption where appropriate;</li>
-                    <li>We use password protection where appropriate; and</li>
-                    <li>We restrict access to personal data to our employees, contractors and agents who need access to the relevant personal data in order to for them to process it for us and who are subject to strict contractual confidentiality obligations.</li>
-                </ul>
-                <p>You are responsible for the personal data that you choose to share, disclose or submit voluntarily while using our website or devices and which can be viewed by members of third party applications or sites such as chat applications or messengers.</p>
-                <p>When you utilize third-party social media services, email, text messages etc. which you accessed via using our product, and to interact with other users or service providers and exchange personal contact, geographic location or track of traveling etc., please note that we cannot verify if such third-party services have made such information transmission to be fully encrypted. Please take care to protect the security of your personal data, and especially avoid sharing sensitive personal data when you’re uncertain about the security of data transfer.</p>
-                <p>Please understand that due to the rapid development of computer and internet technologies, various measures of attack may exist or be created, whether vicious or not, which renders no applications or internet transmission to be 100% secure. While we continuously take reasonable technical, administrative, and physical measures to protect the information you provided, we still may not be able to guarantee absolute security of your information at all times. Where the relevant information and data collected is stored on your device, security is also dependent on your device’s own secure storage functionality. You should also take care to protect the secrecy of your account user name and password and to protect the information stored on your device.</p>
-                <h4 id="id-12-contact-and-complaints"><strong>12. Contact and complaints</strong></h4>
-                <p>If you have any issue arising from this policy, including requests to exercise data subject rights, you can contact us as described below:</p>
-                <p><strong>Email address:</strong> <a href="mailto:groageselina@gmail.com">groageselina@gmail.com
-
-</a></p>
-                
-                <p>If you have a complaint or concern about how we use your personal data, please contact us in the first instance and we will attempt to resolve the issue as soon as possible. You also have a right to lodge a complaint with your national data protection supervisory authority at any time. We do ask that you please attempt to resolve any issues with us first, although you have a right to contact your supervisory authority at any time.</p>
-                <h2 id="id-appendix-i--cookie-policy"><strong>APPENDIX I – COOKIE POLICY</strong></h2>
-                <ol>
-                    <li>
-                        <p>We or our third party partners may collect and use your information via tracking technology such as Cookies, which information may be stored as log information.</p>
-                    </li>
-                    <li>
-                        <p>We use such technologies to provide more tailored services and user experiences, and for purposes such as remembering your account identity or analyzing your account’s security; analyzing your usage of our product and service; advertisement optimization (helping us to provide you with more targeted advertisements instead of general advertisements based on your information). We may also process and summarize the non-personal data collected via tracking technology and provide the same to advertisers or other partners to be used to analyze how users use our services and for advertisement purpose.</p>
-                    </li>
-                    <li>
-                        <p>There may be tracking technology placed by advertisers or other partners in our products and service. Such tracking technology may collect the non-person information related to you for the purpose of analyzing how users use the services and sending to you the advertisements you might find interest in, or evaluating the effects of the advertisements. Collection and use of such information via third party tracking technology will not be subject to our Privacy Policy, but will be subject to third-party privacy policies applicable to the users, and we will not be liable for the third-party Cookies or web beacon.</p>
-                    </li>
-                    <li>
-                        <p>You may use browser and personal device settings to refuse or manage tracking technology. However, for technical reasons beyond our control, this cannot be guaranteed. For example, if you reset your browser, delete your cookies or access to our website or applications from another browser or device, your cookie settings may be lost.</p>
-                    </li>
-                    <li>
-                        <p>You shall be aware that when ceasing to use Cookie or other tracking technology, you may not be able to enjoy the best service experiences, or parts of our product or service may no longer function correctly (please contact us in case of any such problems). Furthermore, you mays still receive the same amount of commercial information such as advertisements which will have lower relevancy to you.</p>
-                    </li>
-                </ol>
+                <h4 id="id-1-DESCRIPTION-Of-Youtube-service"><strong>1. DESCRIPTION Of Youtube service</strong></h4>
+                <p>The platform can give you access to websites, databases, networks, servers, information, software, programs, systems, directories, applications, products or services, third party (hereinafter "external services", "3rd-party services"). We only use YouTube and Soundcloud API compatible with their policy. We are only an unofficial 3rd-party client that complies with their 3rd party API terms of service. It is NOT an affiliated nor related product of those services. Per their API developer terms you do not need special approval to use these APIs or to promote API functionality in your application provided that the guidelines are followed. All trademarks and copyrights belong to their respective owners and are used here under the terms of Fair. Use and the Digital Millennium Copyrights Act (DMCA).</p>
+				<p>YouTube API Services Terms of Service:<a href = "https://developers.google.com/youtube/terms/api-services-terms-of-service">https://developers.google.com/youtube/terms/api-services-terms-of-service</a></p>
+				<p>SoundCloud Terms of Use:<a href = "https://soundcloud.com/terms-of-use">https://soundcloud.com/terms-of-use</a></p>
+                <h4 id="id-1-who-is-responsible-for-looking-after-your-personal-data"><strong>2. What Information Will We Collect?</strong></h4>
+                <p>a. We Do Not Collect Personal Information. Personal Information includes your geographical location information, name, address, email, telephone number, fax number, the information you stored on your device, and the information to identify you or other individuals when you use applications, services or websites.</p>
+				<p>b. Non-Personal Information. When users interact with our application, we may collect non-personal-identity information associated with the user. Non-personal-identity information may include your phone’s model, version of Android and other similar information.</p>
+                <p>(1) Session and Available Data. "Session and Available Data" refers to data information relevant to connections and services that you provide to us when you use an application, service or website, including but not limited to, when you use our applications, services or websites. Session and Available Data includes information related to connection request, server communication and data sharing, including network testing, quality of service, date, time, and place / location. Gathering of information as described below, we may also gather Session and Available Data. Please note that Session and Available Data does not include any personal information, nor does it include any content that you might use applications (such as photo, contact, calendar, etc.), services, or website to send or share.</p>
+                <p>(2) Login Data. When you interact with us, or use applications, services or our website, our system may automatically collect your unique user device serial number, IP address, the type of your browser or operating system, and the date and time that you use (the "Login Data").</p>
+                <p>(3) Summary Information. "Summary Information" refers to the data that we collected from a group or service type or users, in which users’ personal identity information has been removed. In other words, the information of how you use the application, services and websites may be collected and combined with how other individuals use the applications, services and websites, but personal identity information will not be included in the ultimate Summary Information. Summary Information can help us understand user demand trends, so that we can better develop new features, or provide tailor-made applications, services and websites.</p>
+                <h4 id="id-3-when-do-we-collect-your-personal-data"><strong>3. How We Use Collected Information?</strong></h4>
+                <p>a. Personal Information – Since we do not collect Personal Information, we will not use your Personal Information in any way.</p>
+                <p>b. Non-Personal Information. We may use Non-Personal Information for the following purposes:</p>
+                <p>(1) For Personalized User Experience – We may use your Non-Personal Information to understand your user characteristics, and other trends related to user’s habits.</p>
+                <p>(2) To Help Improve Our Service – We may use Non-Personal Information to provide, maintain, enhance and improve our applications, services and websites, and the development of new services.</p>
+                <p>(3) For the Further Development of Vigor Music – We might use Non-Personal Information for market promotion and development purposes.</p>
+                <h4 id="id-4-what-purposes-do-we-use-your-personal-data-for"><strong>4. The Possibility of Personal Information Being Disclosed</strong></h4>
+                <p>a. Personal Information. We do not store Personal Information, so your Personal Information cannot be disclosed by us.</p>
+                <p>b. Non-Personal Information. We will not match non-personal information and personal information (such as numbering your name and your user-specific device).</p>
+                <h4 id="id-5-who-do-we-share-your-personal-data-with"><strong>5. Security</strong></h4>
+                <p>Vigor Music is concerned about keeping confidential of your information. We do not collect Personal Information, and we have adopted effective measures to protect your Non-Personal Information, so that such information will not be accessed and used without authorization. Please note that although we have taken sufficient security measures to protect your information, there is not absolute guarantee that we can prevent non-personal information from being accessed or used without authorization.</p>
+                <h4 id="id-5-who-do-we-share-your-personal-data-with"><strong>6. Contact Us / Report Violation</strong></h4>
+				<p>If you have any questions or suggestions with respect to this Privacy Policy or our privacy system, or if you want to report any violations of this Privacy Policy or abuse of the application, service or website, please contact us at: groageselina@gmail.com.</p>
+				<h4 id="id-5-who-do-we-share-your-personal-data-with"><strong>7. Amendment of This Privacy Policy</strong></h4>
+				<p>We reserve the right to handle, amend, modify or otherwise change this Privacy Policy at any time and at our sole discretion, and if you do not agree to any amendment or modification of this Privacy Policy, you may stop using all of relevant applications, services and websites. Please note that our employees or agents have no right to change any of our policies.</p>
             </article>
         </div>
     </main>
