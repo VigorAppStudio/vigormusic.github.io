@@ -25,6 +25,8 @@ spotx.tv, 135285, RESELLER, 7842df1d2fe2db34
 google.com, pub-3671804844775474, DIRECT, f08c47fec0942fa0
 
 fyber.com, 210031, DIRECT
+axonix.com, 57869, RESELLER
+rhythmone.com, 3948367200, RESELLER, a670c89d4a324e47
 adcolony.com, 1efc6603710003ea, RESELLER, 1ad675c9de6b5176
 algorix.co, 54236, RESELLER
 appnexus.com, 8178, RESELLER, f5ab79cb980f11d1
