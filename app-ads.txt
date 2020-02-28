@@ -158,3 +158,4 @@ smartadserver.com, 3117, RESELLER
 somoaudience.com, e0ac315e5cd7f6977fe44dbd2d4676ea, RESELLER, afbbacfd95716fd4
 startapp.com, smt, RESELLER
 xad.com, 241, RESELLER, 81cbf0a75a5e0e9a
+google.com, pub-3671804844775474, DIRECT, f08c47fec0942fa0
